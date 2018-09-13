@@ -25,5 +25,5 @@ module.exports = {
 };
 
 
-const button = document.getElementsByClassName("example");
+$(add).add('click') => document.createTextNode("card")
 
