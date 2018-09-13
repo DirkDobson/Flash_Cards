@@ -1,4 +1,5 @@
 var path = require('path');
+import $ from 'jquery'
 
 module.exports = {
   entry: './app/index.js',
